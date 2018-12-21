@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jna">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/cloume/monitoralarm/lib/jna.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="examples (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/cloume/monitoralarm/lib/examples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
