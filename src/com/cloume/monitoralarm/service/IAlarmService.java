@@ -6,13 +6,17 @@ package com.cloume.monitoralarm.service;
  * @author: dabuff
  * @create: 2018-12-20 15:25
  */
+
+/**
+ * 接口以及MonitorAlarmUtil类我已经打包好放在jar文件夹中的jar包中，可以直接调用
+ */
+
 public interface IAlarmService {
     /**
-     *
-     * @param ip 用来标识哪个摄像头
-     * @param bytes 图片字节流
+     * @param ip     用来标识哪个摄像头
+     * @param bytes  图片字节流
      * @param length 字节流长度
-     * @param time 时间戳（毫秒）
+     * @param time   时间戳（毫秒）
      */
     void onFaceSnaped(String ip, byte[] bytes, int length, long time);
 }
